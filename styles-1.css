@@ -1,0 +1,22 @@
+img{
+    height: 500px;
+    width: auto;
+    display: block;
+    margin: auto;
+}
+
+h3, h4{
+    color: darkred;
+}
+
+body{
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+h1{
+    text-align: center;
+}
+h1 span{
+    background-color: red;
+    color: white;
+}
