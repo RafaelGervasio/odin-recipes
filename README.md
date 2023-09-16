@@ -7,4 +7,6 @@
 
 - It's also my first project on github, so that's great.
 
+- I've also now added styling with css.
+
 https://www.theodinproject.com/lessons/foundations-recipes#assignment

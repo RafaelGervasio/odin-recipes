@@ -1,3 +1,51 @@
-body{
-    background-color: aliceblue;
+*{
+    color: white;
+    background-color: #121212;
+}
+
+h1{
+    font-size: 100px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+    width: fit-content;
+    margin: 0 auto;
+    display: inline-block;
+
+    /* border-style: dotted;
+    border-width: 1px;
+    border-color: yellow; */
+
+}
+
+img{
+    height: 100px;
+    width: auto;
+    margin: 0 auto;
+
+    /* border-style: dotted;
+    border-width: 1px;
+    border-color: yellow; */
+
+}
+
+div{
+    width: fit-content;
+    margin: 0 auto;
+
+    /* border-style: dotted;
+    border-width: 1px;
+    border-color: yellow; */
+
+}
+
+
+ul{
+    width: fit-content;
+    /* margin: 0 auto; */
+    margin-left: 33%;
+    margin-top: 20px;
+
+    /* border-style: dotted;
+    border-width: 1px;
+    border-color: yellow; */
 }
